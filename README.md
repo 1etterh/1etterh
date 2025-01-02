@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @1etterh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Seohyun Kim
 
-<!---
-1etterh/1etterh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 프로젝트
+- [SYNCDAY](https://github.com/SYNC-DAY)
+- [SGMA](https://github.com/Spring-Cooler)
+
+## 사용 언어
+- Java
+- Javascript
+- Git
+- SQL
+
+## 프레임워크
+- Spring Boot
+- Vue.js
+- JPA
+- Mybatis
+
+## 공부중
+- Kotlin
+- React
+

@@ -1,5 +1,5 @@
 # Seohyun Kim
-
+> 풀스택 개발자
 
 ## 프로젝트
 - [SYNCDAY](https://github.com/SYNC-DAY)

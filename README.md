@@ -32,6 +32,6 @@
 
 
 ## Contact
-Email: 1etterh.dev@gmail.com
-Github: https://github.com/1etterh
+Email: 1etterh.dev@gmail.com <br>
+Github: https://github.com/1etterh <br>
 Blog: https://1etterh.github.io/devlog/

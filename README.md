@@ -6,7 +6,7 @@
 
 
 ## Projects
-## SYNCDAY
+### SYNCDAY
 > 효율적인 개발 업무를 위한 워크 스페이스
 #### 기술 스택
 > Spring Boot, Spring Data JPA, MyBatis, Spring Security, OAuth2 GitHub API, Vue.js

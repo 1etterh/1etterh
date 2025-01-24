@@ -27,11 +27,9 @@
 #### 관련 링크
 1. [Repository](https://github.com/beyond-sw-camp/be09_fin_SyncDay)
 2. [Refactoring 계획](https://1etterhdev.atlassian.net/wiki/spaces/S/overview)
-3. [회고](https://1etterh.github.io/devlog/Projects/syncday/SyncDay-%ED%9A%8C%EA%B3%A0)
-
 
 
 ## Contact
 Email: 1etterh.dev@gmail.com <br>
 Github: https://github.com/1etterh <br>
-Blog: https://1etterh.github.io/devlog/
+
